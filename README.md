@@ -74,7 +74,7 @@ Contributions are welcome!
 ---
 
 ## 🆘 Support
-- If you face issues:
+If you face issues:
 - Open a GitHub Issue
 - Check official Wikipedia API documentation
 - Ensure stable internet connection
